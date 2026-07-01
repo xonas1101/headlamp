@@ -605,7 +605,6 @@
   "Ephemeral container": "Эфемерный контейнер",
   "Previous logs may be available for restarted containers": "Предыдущие журналы могут быть доступны для перезапущенных контейнеров",
   "Container: {{ container }}": "Контейнер: {{ container }}",
-  "Pod scheduling is blocked: {{ reason }}": "Планирование Пода заблокировано: {{ reason }}",
   "Pod scheduling event: {{ reason }}": "Событие планирования Пода: {{ reason }}",
   "Pod has node selector constraints": "Под имеет ограничения на выбор узла",
   "Pod has affinity or anti-affinity constraints": "Под имеет ограничения affinity или anti-affinity",

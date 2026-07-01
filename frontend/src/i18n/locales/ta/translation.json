@@ -595,7 +595,6 @@
   "Ephemeral container": "",
   "Previous logs may be available for restarted containers": "",
   "Container: {{ container }}": "",
-  "Pod scheduling is blocked: {{ reason }}": "",
   "Pod scheduling event: {{ reason }}": "",
   "Pod has node selector constraints": "",
   "Pod has affinity or anti-affinity constraints": "",
