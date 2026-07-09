@@ -742,7 +742,6 @@
   "Format": "Format",
   "{{ seconds }}s": "{{ seconds }}s",
   "Name: {{ name }}": "Name: {{ name }}",
-  "Reason: {{ reason }}": "Reason: {{ reason }}",
   "Terminated": "Terminated",
   "Exit Code: {{ code }}": "Exit Code: {{ code }}",
   "Started: {{ date }}": "Started: {{ date }}",

@@ -737,7 +737,6 @@
   "Format": "",
   "{{ seconds }}s": "",
   "Name: {{ name }}": "",
-  "Reason: {{ reason }}": "",
   "Terminated": "",
   "Exit Code: {{ code }}": "",
   "Started: {{ date }}": "",
